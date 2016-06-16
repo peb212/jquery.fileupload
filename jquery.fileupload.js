@@ -15,7 +15,7 @@
 (function (factory) {
     'use strict';
     factory( jQuery,RequireFactory.add( [  
-            'lib/jquery.ui.widget'+GlobalStaticConfing.min],function(){} ) );
+            'lib/jquery.ui.widget/jquery.ui.widget'],function(){} ) );
 }(function ($) {
     'use strict';
 
